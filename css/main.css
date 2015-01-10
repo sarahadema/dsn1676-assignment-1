@@ -21,7 +21,7 @@ html{
 }
 
 .masthead {
-	image:repeat;
+	background-repeat: repeat;
 }
 
 .wanted {
@@ -44,4 +44,5 @@ html{
 
 .star {
 	width: 25%;
+	display: inline-block;
 }
