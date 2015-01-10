@@ -19,3 +19,29 @@ html{
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+.masthead {
+	image:repeat;
+}
+
+.wanted {
+	background-color: #87714f;
+}
+
+.headline {
+	color: #111;
+}
+
+.mugshot {
+	border: 1px solid #111;
+}
+
+.symbol {
+	width: 20%;
+	float: left;
+	clear: left;
+}
+
+.star {
+	width: 25%;
+}
