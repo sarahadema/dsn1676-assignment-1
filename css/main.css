@@ -42,6 +42,12 @@ html{
 	clear: left;
 }
 
+.stripes {
+	background-image: url(../images/masthead-bg.jpg);
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+}
+
 .star {
 	width: 25%;
 	display: inline-block;
