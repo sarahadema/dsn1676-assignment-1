@@ -31,17 +31,16 @@ html{
 
 .headline {
 	color: #111;
-	text-align: center;
 }
 
 .mugshot {
-	border: 1px solid #111;
+	border: 1px solid #87714f;
+	margin:0;
 }
 
 .symbol {
+	margin: 0 30%;
 	width: 20%;
-	float: left;
-	clear: left;
 }
 
 .stripes {
@@ -50,6 +49,6 @@ html{
 }
 
 .star {
-	width: 25%;
+	width: 50%;
 	display: inline-block;
 }
