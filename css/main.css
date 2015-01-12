@@ -35,6 +35,7 @@ html{
 
 .mugshot {
 	border: 1px solid #87714f;
+	border-radius: 10px;
 	margin:0;
 }
 
