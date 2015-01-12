@@ -30,6 +30,7 @@ html{
 
 .headline {
 	color: #111;
+	text-align: center;
 }
 
 .mugshot {
@@ -43,7 +44,6 @@ html{
 }
 
 .stripes {
-	background-image: url(../images/masthead-bg.jpg);
 	background-repeat: repeat-x;
 	background-repeat: repeat-y;
 }
